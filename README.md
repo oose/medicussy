@@ -1,4 +1,4 @@
-# medicussy
+# Medicussy
 Risk analysis for medical devices based on the OMG RAAML specification
 
 ## Medical devices domain characteristics
