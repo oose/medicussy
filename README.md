@@ -1,6 +1,8 @@
 # Medicussy
 Risk analysis for medical devices based on the OMG RAAML specification
 
+![Medicussy Logo](https://github.com/oose/medicussy/pic/medicussy-color-800.png)
+
 ## Medical devices domain characteristics
 
 - Significant documentation effort to gain certification
