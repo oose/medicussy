@@ -21,6 +21,6 @@ Risk analysis for medical devices based on the OMG RAAML specification
 - [IEC 62304:2006](https://www.iso.org/standard/38421.html) – Medical devices software – Software lifecycle processes
 - [IEC 62366:2015](https://www.iso.org/standard/63179.html) – Medical devices - Part 1: Application of usability engineering to medical devices
 - [IEC 60601:2006](https://www.iso.org/standard/41986.html) – Medical electrical equipment – Part 1: General requirements for basic safety and essential performance
-- [RAAML Version 1.0](https://omg.org/spec/RAAML) – Risk Analysis and Assessment Modeling Language
-- [SysML Version 1.6](https://omg.org/spec/SYSML) – Systems Modeling Language
-- [UML Version 2.5.1](https://omg.org/spec/UML) – Unified Modeling Language
+- [RAAML 1.0](https://omg.org/spec/RAAML) – Risk Analysis and Assessment Modeling Language
+- [SysML 1.6](https://omg.org/spec/SYSML) – Systems Modeling Language
+- [UML 2.5.1](https://omg.org/spec/UML) – Unified Modeling Language
