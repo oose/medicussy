@@ -19,7 +19,7 @@ Risk analysis for medical devices based on the OMG RAAML specification
 ## Related standards
 - [ISO 14971:2019](https://www.iso.org/standard/72704.html) – Medical devices – Application of risk management to medical devices
 - [IEC 62304:2006](https://www.iso.org/standard/38421.html) – Medical devices software – Software lifecycle processes
-- [IEC 62366:2015](https://www.iso.org/standard/63179.html) – Medical devices - Part 1: Application of usability engineering to medical devices
+- [IEC 62366:2015](https://www.iso.org/standard/63179.html) – Medical devices – Part 1: Application of usability engineering to medical devices
 - [IEC 60601:2006](https://www.iso.org/standard/41986.html) – Medical electrical equipment – Part 1: General requirements for basic safety and essential performance
 - [RAAML 1.0](https://omg.org/spec/RAAML) – Risk Analysis and Assessment Modeling Language
 - [SysML 1.6](https://omg.org/spec/SYSML) – Systems Modeling Language
